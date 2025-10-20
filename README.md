@@ -48,16 +48,29 @@ Procedure for Load test:
 7.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
 
 Tabulation for Open Circuit Test
+![WhatsApp Image 2025-10-20 at 21 36 41_3e9ddef8](https://github.com/user-attachments/assets/5905f496-ca76-4a9a-907d-04e6b1c4555d)
 
 Tabulation for Load Test:
+![WhatsApp Image 2025-10-20 at 21 36 42_23c93893](https://github.com/user-attachments/assets/ae68652a-4e7d-4300-a130-6769d29abbba)
 
 Model graph:
+![WhatsApp Image 2025-10-20 at 21 36 41_15f6a89d](https://github.com/user-attachments/assets/b243ae2f-1e47-43c0-8699-d581a5cebffc)
+![WhatsApp Image 2025-10-20 at 21 36 42_20ffb63c](https://github.com/user-attachments/assets/8b0d516f-d919-4fa1-b046-54670bf8aa63)
+
 Calculation: 
+![WhatsApp Image 2025-10-20 at 21 36 42_fb5a30da](https://github.com/user-attachments/assets/f38fe8a0-0f50-41cc-a377-b92efe356fb0)
+![WhatsApp Image 2025-10-20 at 21 36 41_e1ff7926](https://github.com/user-attachments/assets/989c5e7a-8a3c-4758-a49c-d13cbb1ff874)
 
 Open circuit characteristics
+![WhatsApp Image 2025-10-20 at 21 36 40_3c37b8e5](https://github.com/user-attachments/assets/5ac6810b-6038-4970-8d66-cf65788c4646)
+
+![WhatsApp Image 2025-10-20 at 21 36 43_c4e2ae99](https://github.com/user-attachments/assets/b6521a7d-2097-4163-af94-a45799719f6b)
+
 
   
 Load Characteristics:
- 
+ ![WhatsApp Image 2025-10-20 at 21 36 40_94715298](https://github.com/user-attachments/assets/9fdb9a1f-6fd0-441a-bc33-986244573172)
+![WhatsApp Image 2025-10-20 at 21 36 43_c4e2ae99](https://github.com/user-attachments/assets/b6521a7d-2097-4163-af94-a45799719f6b)
+
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
